@@ -1,0 +1,17 @@
+{
+  "name": "ride-evee-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.1.1",
+    "supertest": "^7.1.4"
+  }
+}
